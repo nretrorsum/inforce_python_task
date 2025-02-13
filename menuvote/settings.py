@@ -76,7 +76,7 @@ DATABASES = {
         'NAME': 'postgres',        
         'USER': 'postgres',        
         'PASSWORD': 'postgres',   
-        'HOST': 'db',
+        'HOST': 'localhost', #Change the 'localhost' to 'db' in case of installation via Docker
         'PORT': '5432',                
     }
 }

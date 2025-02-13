@@ -63,7 +63,7 @@ Or
    docker exec -it container-name sh
    python manage.py migrate
    ```
-
+### Notice: Change the 'localhost' in menuvote/settings.py DATABASES to 'db' in case of installation via Docker
 ---
 
 ## API Overview  
