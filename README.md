@@ -73,7 +73,7 @@ Or
 - **Register User**: `POST /users/register/`
 - **Login**: `POST /users/login/`  
 - **Token Refresh**: `POST /users/token/refresh/`
-- 
+  
 ### Restaurant Management
 - **Create a Restaurant**: `POST /restaurants/create/`  
 - **List Restaurants**: `GET /restaurants/all/`  
